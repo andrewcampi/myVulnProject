@@ -1,0 +1,252 @@
+
+1.Authentication Bypass//CVE-2019-1937,Authentication Bypass//CVE-2019-1937
+2.c,Buffer Overflow//bof1.c
+3.c,Buffer Overflow//example1.c
+4.c,Buffer Overflow//example2.c
+5.c,Buffer Overflow//gets.c
+6.c,Buffer Overflow//netkit-telnet 0.17.c
+7.c,Buffer Overflow//sprintf.c
+8.c,Buffer Overflow//strcpy.c
+9.rb,Code Execution//Discourse_SNS_webhook_RCE.rb
+10.php,Code Injection//eval.php
+11.php,Code Injection//eval2.php
+12.rb,Code Injection//example1.rb
+13.php,Command Injection//CVE-2019-16662.php
+14.php,Command Injection//CVE-2019-16663.php
+15.php,Command Injection//Cryptolog.php
+16.cs,Command Injection//OSI.cs
+17.php,Command Injection//cmd1.php
+18.php,Command Injection//cmd2.php
+19.php,Command Injection//cmd3.php
+20.php,Command Injection//cmd4.php
+21.php,Command Injection//cmd5.php
+22.php,Command Injection//cmd6.php
+23.js,Command Injection//exec.js
+24.py,Command Injection//tainted.py
+25.c,Connection String Injection//example1.c
+26.java,Connection String Injection//example2.java
+27.asp,Connection String Injection//example3.asp
+28.js,Denial Of Service//dos.js
+29.cs,Denial Of Service//example1.aspx.cs
+30.c,Denial Of Service//example2.c
+31.php,File Inclusion//lfi1.php
+32.php,File Inclusion//lfi10.php
+33.php,File Inclusion//lfi11.php
+34.php,File Inclusion//lfi12.php
+35.php,File Inclusion//lfi13.php
+36.php,File Inclusion//lfi14.php
+37.php,File Inclusion//lfi2.php
+38.php,File Inclusion//lfi3.php
+39.php,File Inclusion//lfi4.php
+40.php,File Inclusion//lfi5.php
+41.php,File Inclusion//lfi6.php
+42.php,File Inclusion//lfi7.php
+43.php,File Inclusion//lfi8.php
+44.php,File Inclusion//lfi9.php
+45.c,Format String Attacks//FormatString.c
+46.c,Format String Attacks//vuln.c
+47.php,IDOR//example1.php
+48.php,Insecure File Uploads//Insomnihack_2019_l33t-hoster.php
+49.php,Insecure File Uploads//WishList.php
+50.php,Insecure File Uploads//example1.php
+51.php,Insecure File Uploads//example2.php
+52.php,Insecure File Uploads//example3.php
+53.c,Integer Overflow//damnvuln.c
+54.cs,LDAP Injection//LDAP.cs
+55.php,LDAP Injection//example1.php
+56.asp,LDAP Injection//example2.asp
+57.cs,Log Forging//logf.cs
+58.js,NoSQL Injection//mongodb.js
+59.Open Redirect//Remote Code Execution in apt-get,Open Redirect//Remote Code Execution in apt-get
+60.php,Open Redirect//example1.php
+61.rb,Open Redirect//example1.rb
+62.js,Open Redirect//koa.js
+63.js,Open Redirect//redirect.js
+64.c,Out of Bounds//damnvuln.c
+65.php,PHP Object Injection//chall1.php
+66.php,PHP Object Injection//chall2.php
+67.php,PHP Object Injection//tarlogic-ex1.php
+68.php,PHP Object Injection//tarlogic-ex2.php
+69.php,PHP Object Injection//tarlogic1.php
+70.cs,Path Traversal//PT1.cs
+71.cs,Path Traversal//PT2.cs
+72.cs,Path Traversal//PT3.cs
+73.cs,Path Traversal//PT4.cs
+74.java,Path Traversal//ZipTraversal.java
+75.java,Path Traversal//ZipTraversalPatched.java
+76.php,Path Traversal//bypass.php
+77.java,Path Traversal//example1.java
+78.php,Path Traversal//example2.php
+79.java,Path Traversal//example3.java
+80.js,Path Traversal//expresstest.js
+81.js,Path Traversal//gq.js
+82.php,Path Traversal//phpexample.php
+83.py,Path Traversal//py_ctf.py
+84.js,PostMessage Security//challenge1.js
+85.js,PostMessage Security//challenge3.js
+86.js,PostMessage Security//challenge_2.js
+87.js,Prototype Pollution//lodash.js
+88.js,ReDoS//redos.js
+89.asp,Resource Injection//example1.asp
+90.SQL Injection//Cryptolog,php,SQL Injection//Cryptolog,php
+91.cs,SQL Injection//SQLi.cs
+92.php,SQL Injection//blindsqli.php
+93.java,SQL Injection//example.java
+94.rb,SQL Injection//example1.rb
+95.js,SQL Injection//example2.js
+96.js,SQL Injection//mysql.js
+97.js,SQL Injection//sql.js
+98.php,SQL Injection//sqli.php
+99.js,SSRF//express.js
+100.rb,Sensitive Data Exposure//Railsgoatconfig.rb
+101.ts,Sensitive Data Exposure//graphql.ts
+102.ts,Sensitive Data Exposure//hardcoded.ts
+103.php,Server Side Template Injection//Twig.php
+104.py,Server Side Template Injection//asis_ssti_pt.py
+105.go,Server Side Template Injection//sstigolang.go
+106.py,Server Side Template Injection//test.py
+107.c,Symlink Attack//file.c
+108.py,Unsafe Deserialization//CVE-2017-2809.py
+109.js,Unsafe Deserialization//de.js
+110.Unsafe Deserialization//java,Unsafe Deserialization//java
+111.py,Unsafe Deserialization//pickle2.py
+112.js,Unsafe Deserialization//unsafe.js
+113.php,Unsafe Deserialization//unserialize.php
+114.c,Use After Free//damnvuln.c
+115.cs,XPATH Injection//xpath.cs
+116.XSS//Cookie Security,XSS//Cookie Security
+117.java,XSS//Spring.java
+118.cs,XSS//XSS.cs
+119.php,XSS//dom.php
+120.php,XSS//example.php
+121.html,XSS//example1.html
+122.js,XSS//express.js
+123.cs,XXE//XmlReader_Tests.cs
+124.php,XXE//test.php
+125.php,XXE//test2.php
+126.js,XXE//xxe.js
+127.cs,XXE//xxe1.cs
+128.cs,Zip Traversal//myApp.cs
+129.php,myVulnProject//10.php
+130.rb,myVulnProject//100.rb
+131.ts,myVulnProject//101.ts
+132.ts,myVulnProject//102.ts
+133.php,myVulnProject//103.php
+134.py,myVulnProject//104.py
+135.go,myVulnProject//105.go
+136.py,myVulnProject//106.py
+137.c,myVulnProject//107.c
+138.py,myVulnProject//108.py
+139.js,myVulnProject//109.js
+140.php,myVulnProject//11.php
+141.py,myVulnProject//111.py
+142.js,myVulnProject//112.js
+143.php,myVulnProject//113.php
+144.c,myVulnProject//114.c
+145.cs,myVulnProject//115.cs
+146.java,myVulnProject//117.java
+147.cs,myVulnProject//118.cs
+148.php,myVulnProject//119.php
+149.rb,myVulnProject//12.rb
+150.php,myVulnProject//120.php
+151.html,myVulnProject//121.html
+152.js,myVulnProject//122.js
+153.cs,myVulnProject//123.cs
+154.php,myVulnProject//124.php
+155.php,myVulnProject//125.php
+156.js,myVulnProject//126.js
+157.cs,myVulnProject//127.cs
+158.cs,myVulnProject//128.cs
+159.php,myVulnProject//13.php
+160.php,myVulnProject//14.php
+161.php,myVulnProject//15.php
+162.cs,myVulnProject//16.cs
+163.php,myVulnProject//17.php
+164.php,myVulnProject//18.php
+165.php,myVulnProject//19.php
+166.c,myVulnProject//2.c
+167.php,myVulnProject//20.php
+168.php,myVulnProject//21.php
+169.php,myVulnProject//22.php
+170.js,myVulnProject//23.js
+171.py,myVulnProject//24.py
+172.c,myVulnProject//25.c
+173.java,myVulnProject//26.java
+174.asp,myVulnProject//27.asp
+175.js,myVulnProject//28.js
+176.cs,myVulnProject//29.cs
+177.c,myVulnProject//3.c
+178.c,myVulnProject//30.c
+179.php,myVulnProject//31.php
+180.php,myVulnProject//32.php
+181.php,myVulnProject//33.php
+182.php,myVulnProject//34.php
+183.php,myVulnProject//35.php
+184.php,myVulnProject//36.php
+185.php,myVulnProject//37.php
+186.php,myVulnProject//38.php
+187.php,myVulnProject//39.php
+188.c,myVulnProject//4.c
+189.php,myVulnProject//40.php
+190.php,myVulnProject//41.php
+191.php,myVulnProject//42.php
+192.php,myVulnProject//43.php
+193.php,myVulnProject//44.php
+194.c,myVulnProject//45.c
+195.c,myVulnProject//46.c
+196.php,myVulnProject//47.php
+197.php,myVulnProject//48.php
+198.php,myVulnProject//49.php
+199.c,myVulnProject//5.c
+200.php,myVulnProject//50.php
+201.php,myVulnProject//51.php
+202.php,myVulnProject//52.php
+203.c,myVulnProject//53.c
+204.cs,myVulnProject//54.cs
+205.php,myVulnProject//55.php
+206.asp,myVulnProject//56.asp
+207.cs,myVulnProject//57.cs
+208.js,myVulnProject//58.js
+209.c,myVulnProject//6.c
+210.php,myVulnProject//60.php
+211.rb,myVulnProject//61.rb
+212.js,myVulnProject//62.js
+213.js,myVulnProject//63.js
+214.c,myVulnProject//64.c
+215.php,myVulnProject//65.php
+216.php,myVulnProject//66.php
+217.php,myVulnProject//67.php
+218.php,myVulnProject//68.php
+219.php,myVulnProject//69.php
+220.c,myVulnProject//7.c
+221.cs,myVulnProject//70.cs
+222.cs,myVulnProject//71.cs
+223.cs,myVulnProject//72.cs
+224.cs,myVulnProject//73.cs
+225.java,myVulnProject//74.java
+226.java,myVulnProject//75.java
+227.php,myVulnProject//76.php
+228.java,myVulnProject//77.java
+229.php,myVulnProject//78.php
+230.java,myVulnProject//79.java
+231.c,myVulnProject//8.c
+232.js,myVulnProject//80.js
+233.js,myVulnProject//81.js
+234.php,myVulnProject//82.php
+235.py,myVulnProject//83.py
+236.js,myVulnProject//84.js
+237.js,myVulnProject//85.js
+238.js,myVulnProject//86.js
+239.js,myVulnProject//87.js
+240.js,myVulnProject//88.js
+241.asp,myVulnProject//89.asp
+242.rb,myVulnProject//9.rb
+243.cs,myVulnProject//91.cs
+244.php,myVulnProject//92.php
+245.java,myVulnProject//93.java
+246.rb,myVulnProject//94.rb
+247.js,myVulnProject//95.js
+248.js,myVulnProject//96.js
+249.js,myVulnProject//97.js
+250.php,myVulnProject//98.php
+251.js,myVulnProject//99.js
